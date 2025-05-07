@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "first project",
+    "details": "project details",
+    "target": 26000.0,
+    "start_date": "2025-05-8",
+    "end_date": "2025-05-10",
+    "user_id": 1
+  }
+]
